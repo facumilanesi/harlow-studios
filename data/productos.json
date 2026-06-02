@@ -1,0 +1,390 @@
+[
+    {
+        "id": 1,
+        "nombre": "Remera Studio Oversize",
+        "marca": "Harlow Studio",
+        "categoria": "remeras",
+        "genero": "unisex",
+        "precio": 39900,
+        "stock": 30,
+        "fecha_lanzamiento": "2025-09-30",
+        "talle": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colores": [
+            "Negro",
+            "Gris",
+            "Blanco"
+        ],
+        "descripcion": "Remera oversize estilo streetwear con doble manga y estampa frontal. Cómoda, versátil y pensada para looks urbanos de todos los días.",
+        "imagen": "img/remera-1-pull-and-bear.png",
+        "temporada": "Primavera / Verano",
+        "origen": "Industria nacional",
+        "calce": "Oversize"
+    },
+    {
+        "id": 2,
+        "nombre": "Remera Essential Washed",
+        "marca": "Harlow Studio",
+        "categoria": "remeras",
+        "genero": "hombre",
+        "precio": 44900,
+        "stock": 18,
+        "fecha_lanzamiento": "2026-03-08",
+        "talle": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "colores": [
+            "Gris",
+            "Negro"
+        ],
+        "descripcion": "Remera relaxed fit confeccionada en algodón pesado con acabado washed. Su silueta oversize y estética minimalista la convierten en un básico ideal para looks urbanos contemporáneos.",
+        "imagen": "img/remera-2-pull-and-bear.png",
+        "temporada": "Primavera / Verano",
+        "origen": "Industria nacional",
+        "calce": "Oversize"
+    },
+    {
+        "id": 3,
+        "nombre": "Remera Racing Team",
+        "marca": "Harlow Studio",
+        "categoria": "remeras",
+        "genero": "unisex",
+        "precio": 39900,
+        "stock": 22,
+        "fecha_lanzamiento": "2026-03-08",
+        "talle": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colores": [
+            "Gris",
+            "Blanco"
+        ],
+        "descripcion": "Remera relaxed fit con inspiración motorsport y diseño gráfico frontal. Su silueta amplia y detalles deportivos aportan un estilo urbano moderno pensado para looks casuales y streetwear.",
+        "imagen": "img/remera-3-pull-and-bear.png",
+        "temporada": "Primavera / Verano",
+        "origen": "Industria nacional",
+        "calce": "Oversize"
+    },
+    {
+        "id": 4,
+        "nombre": "Jean Wide Dark Denim",
+        "marca": "Harlow Studio",
+        "categoria": "jeans",
+        "genero": "unisex",
+        "precio": 94999,
+        "stock": 15,
+        "fecha_lanzamiento": "2025-11-25",
+        "talle": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colores": [
+            "Celeste Oscuro"
+        ],
+        "descripcion": "Jean wide leg confeccionado en denim oscuro con lavado suave y estética minimalista. Su silueta amplia y relajada aporta comodidad y un estilo urbano moderno ideal para outfits streetwear y casuales.",
+        "imagen": "img/jean-1-pull-and-bear.png",
+        "temporada": "Otoño / Invierno",
+        "origen": "Industria nacional",
+        "calce": "Recto"
+    },
+    {
+        "id": 5,
+        "nombre": "Jean Light Wash",
+        "marca": "Harlow Studio",
+        "categoria": "jeans",
+        "genero": "mujer",
+        "precio": 84999,
+        "stock": 10,
+        "fecha_lanzamiento": "2025-11-25",
+        "talle": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colores": [
+            "Celeste"
+        ],
+        "descripcion": "Jean slim fit confeccionado en denim celeste claro con lavado suave y acabado vintage. Su diseño versátil y moderno lo convierte en una prenda ideal para looks urbanos y casuales de todos los días.",
+        "imagen": "img/jean-2-pull-and-bear.png",
+        "temporada": "Primavera / Otoño",
+        "origen": "Industria nacional",
+        "calce": "Skinny Jean"
+    },
+    {
+        "id": 6,
+        "nombre": "Jean Cargo Washed",
+        "marca": "Harlow Studio",
+        "categoria": "jeans",
+        "genero": "hombre",
+        "precio": 109999,
+        "stock": 20,
+        "fecha_lanzamiento": "2025-08-15",
+        "talle": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colores": [
+            "Gris",
+            "Negro"
+        ],
+        "descripcion": "Jean cargo relaxed fit con bolsillos laterales utilitarios y acabado washed gris. Inspirado en la estética streetwear contemporánea para un look urbano cómodo y moderno.",
+        "imagen": "img/jean-3-pull-and-bear.png",
+        "temporada": "Otoño / Invierno",
+        "origen": "Industria nacional",
+        "calce": "Baggy/Cargo"
+    },
+    {
+        "id": 7,
+        "nombre": "Buzo Classic Navy",
+        "marca": "Harlow Studio",
+        "categoria": "buzos",
+        "genero": "unisex",
+        "precio": 59900,
+        "stock": 25,
+        "fecha_lanzamiento": "2025-07-11",
+        "talle": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colores": [
+            "Gris",
+            "Negro"
+        ],
+        "descripcion": "Buzo oversized confeccionado en algodón premium con diseño minimalista y estampa gráfica de líneas continuas. Su calce relajado y estilo urbano lo convierten en una prenda cómoda, moderna y perfecta para looks streetwear de temporada.",
+        "imagen": "img/buzo-1-pull-and-bear.png",
+        "temporada": "Otoño / Invierno",
+        "origen": "Industria nacional",
+        "calce": "Relaxed oversized"
+    },
+    {
+        "id": 8,
+        "nombre": "Buzo Varsity 91",
+        "marca": "Harlow Studio",
+        "categoria": "buzos",
+        "genero": "hombre",
+        "precio": 84900,
+        "stock": 14,
+        "fecha_lanzamiento": "2025-08-15",
+        "talle": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colores": [
+            "Negro",
+            "Blanco"
+        ],
+        "descripcion": "Buzo con capucha de estilo streetwear confeccionado en algodón premium y estampa frontal “91” inspirada en la estética varsity. Su diseño oversized y acabado washed le aportan un look urbano moderno, cómodo y versátil para todos los días.",
+        "imagen": "img/buzo-2-pull-and-bear.png",
+        "temporada": "Otoño / Invierno",
+        "origen": "Industria nacional",
+        "calce": "Oversized fit"
+    },
+    {
+        "id": 9,
+        "nombre": "Buzo Studio Pink",
+        "marca": "Harlow Studio",
+        "categoria": "buzos",
+        "genero": "unisex",
+        "precio": 79900,
+        "stock": 8,
+        "fecha_lanzamiento": "2025-05-24",
+        "talle": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "colores": [
+            "Rosa Pastel",
+            "Verde"
+        ],
+        "descripcion": "Buzo con capucha confeccionado en frisa premium y estampa frontal inspirada en la estética streetwear contemporánea. Su diseño oversized y tonalidad rosa pastel aportan un look moderno, cómodo y versátil ideal para outfits urbanos de temporada.",
+        "imagen": "img/buzo-3-pull-and-bear.png",
+        "temporada": "Otoño / Invierno",
+        "origen": "Industria nacional",
+        "calce": "Oversized fit"
+    },
+    {
+        "id": 10,
+        "nombre": "Bermuda Denim Grid",
+        "marca": "Harlow Studio",
+        "categoria": "bermudas",
+        "genero": "hombre",
+        "precio": 49900,
+        "stock": 5,
+        "fecha_lanzamiento": "2025-12-12",
+        "talle": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "colores": [
+            "Celeste"
+        ],
+        "descripcion": "Bermuda de denim confeccionada en algodón premium con diseño lavado efecto grid y estética streetwear. Su calce relajado y terminación wide fit aportan comodidad y un look urbano moderno ideal para la temporada.",
+        "imagen": "img/bermuda-1-pull-and-bear.png",
+        "temporada": "Primavera / Verano",
+        "origen": "Industria nacional",
+        "calce": "Wide fit"
+    },
+    {
+        "id": 11,
+        "nombre": "Bermuda Denim Black Rivet",
+        "marca": "Harlow Studio",
+        "categoria": "bermudas",
+        "genero": "hombre",
+        "precio": 49900,
+        "stock": 4,
+        "fecha_lanzamiento": "2025-12-12",
+        "talle": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colores": [
+            "Negro"
+        ],
+        "descripcion": "Bermuda de denim negro con lavado oscuro, remaches metálicos decorativos y estética streetwear. Su silueta wide fit y terminaciones cuidadas la convierten en una prenda urbana versátil para combinar en looks casuales de temporada.",
+        "imagen": "img/bermuda-2-pull-and-bear.png",
+        "temporada": "Primavera / Verano",
+        "origen": "Industria nacional",
+        "calce": "Wide fit"
+    },
+    {
+        "id": 12,
+        "nombre": "Bermuda Essential Sport",
+        "marca": "Harlow Studio",
+        "categoria": "bermudas",
+        "genero": "hombre",
+        "precio": 39900,
+        "stock": 7,
+        "fecha_lanzamiento": "2025-12-15",
+        "talle": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colores": [
+            "Negro",
+            "Gris"
+        ],
+        "descripcion": "Bermuda deportiva confeccionada en tejido liviano y confortable con cintura elastizada y ajuste regulable. Su diseño minimalista con detalles contrastantes aporta un estilo urbano versátil ideal para el uso diario y outfits relajados.",
+        "imagen": "img/bermuda-3-pull-and-bear.png",
+        "temporada": "Primavera / Verano",
+        "origen": "Industria nacional",
+        "calce": "Relaxed fit"
+    },
+    {
+        "id": 13,
+        "nombre": "Remera Polo Classic",
+        "marca": "Harlow Studio",
+        "categoria": "remeras",
+        "genero": "hombre",
+        "precio": 39900,
+        "stock": 16,
+        "fecha_lanzamiento": "2026-03-08",
+        "talle": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colores": [
+            "Azul marino",
+            "Blanco"
+        ],
+        "descripcion": "Remera relaxed fit inspirada en la estética polo clásica con detalles contrastantes en cuello y mangas. Confeccionada en algodón premium para brindar comodidad, versatilidad y un estilo urbano minimalista ideal para todos los días.",
+        "imagen": "img/remera-4-pull-and-bear.png",
+        "temporada": "Primavera / Verano",
+        "origen": "Industria nacional",
+        "calce": "Relaxed fit"
+    },
+    {
+        "id": 14,
+        "nombre": "Jean Slim Washed Black",
+        "marca": "Harlow Studio",
+        "categoria": "jeans",
+        "genero": "unisex",
+        "precio": 94999,
+        "stock": 9,
+        "fecha_lanzamiento": "2026-01-12",
+        "talle": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colores": [
+            "Negro",
+            "Gris"
+        ],
+        "descripcion": "Jean slim fit confeccionado en denim negro lavado con acabado desgastado sutil. Su ajuste moderno y cómodo lo convierte en una prenda esencial para looks urbanos, minimalistas y versátiles.",
+        "imagen": "img/jean-4-pull-and-bear.png",
+        "temporada": "Todas las Temporadas",
+        "origen": "Industria nacional",
+        "calce": "Slim fit"
+    },
+    {
+        "id": 15,
+        "nombre": "Buzo Zip Collective",
+        "marca": "Harlow Studio",
+        "categoria": "buzos",
+        "genero": "hombre",
+        "precio": 89900,
+        "stock": 6,
+        "fecha_lanzamiento": "2025-07-25",
+        "talle": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "colores": [
+            "Gris perla",
+            "Marrón tostado"
+        ],
+        "descripcion": "Buzo oversized con cierre frontal y capucha confeccionado en frisa premium con estética varsity y acabado washed. Su diseño urbano combina comodidad, abrigo y un estilo streetwear moderno ideal para el uso diario.",
+        "imagen": "img/buzo-4-pull-and-bear.png",
+        "temporada": "Otoño / Invierno",
+        "origen": "Industria nacional",
+        "calce": "Oversized fit"
+    },
+    {
+        "id": 16,
+        "nombre": "Bermuda Linen Stripes",
+        "marca": "Harlow Studio",
+        "categoria": "bermudas",
+        "genero": "unisex",
+        "precio": 42900,
+        "stock": 3,
+        "fecha_lanzamiento": "2026-01-26",
+        "talle": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colores": [
+            "Gris claro rayado",
+            "Beige"
+        ],
+        "descripcion": "Bermuda confeccionada en tejido liviano con diseño rayado y cintura elastizada ajustable para mayor comodidad. Su estilo relajado y fresco la convierte en una prenda ideal para looks casuales y minimalistas de verano.",
+        "imagen": "img/bermuda-4-pull-and-bear.png",
+        "temporada": "Primavera / Verano",
+        "origen": "Industria nacional",
+        "calce": "Relaxed fit"
+    }
+]
